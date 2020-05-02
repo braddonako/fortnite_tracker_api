@@ -1,0 +1,24 @@
+{
+  "name": "fortnite_tracker_api",
+  "version": "1.0.0",
+  "description": "Will be able to search users, and show how many wins they have",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braddonako/fortnite_tracker_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braddonako/fortnite_tracker_api/issues"
+  },
+  "homepage": "https://github.com/braddonako/fortnite_tracker_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
